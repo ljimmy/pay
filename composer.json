@@ -1,0 +1,20 @@
+{
+    "name": "ljimmy/pay",
+    "description": "package for pay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ljimmy",
+            "email": "ljimmy@lcjiya.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4":{
+            "pay\\" : ""
+        }
+    }
+}
